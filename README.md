@@ -4,10 +4,9 @@
 - 👯 I’m looking to collaborate on **Back-end Projects**
 - 📫 How to reach me: **jiyoon276479@gmail.com**
 - ⚡ What I like to do: **Running, watching action and thriller movies, and enjoying anime**
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyoonchol&count_bg=%23DF580F&title_bg=%232B3439&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoonchol&show_icons=true&theme=dark)
+
 
 # ⚙️ Skills
 ### Platforms & Languages
@@ -23,6 +22,11 @@
 
 # ⚔ Project
 [![Personalized message service](https://github-readme-stats.vercel.app/api/pin/?username=jiyoonchol&repo=Sendy)](https://github.com/jiyoonchol/Sendy)
+---
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyoonchol&count_bg=%23DF580F&title_bg=%232B3439&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoonchol&show_icons=true&theme=dark)
 
 
 

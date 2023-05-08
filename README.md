@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoonchol&count_private=true)
 
-![Java](https://img.shields.io/badge/JAVA-#FF160B.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-FF160B.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 <!--

@@ -1,4 +1,5 @@
-# Hello 🖐, I'm Jiyoon Choi
+# <center>Hello 🖐, I'm Jiyoon Choi</center>
+
 ## My goal is to grow as a backend developer
 - 🌱 I’m currently learning **how to deeply study the object-oriented principles of Java, and my goal is to perfectly understand the three core components of Spring**
 - 👯 I’m looking to collaborate on **Back-end Projects**

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&animation=scaleIn&type=transparent&color=1C3A5E&height=300&section=header&text=Jiyoon%20Choi&fontSize=90&fontAlign=50&fontColor=6FC3FF)</h1>
+![header](https://capsule-render.vercel.app/api?&animation=scaleIn&type=transparent&color=FFFFFF&height=300&section=header&text=Jiyoon%20Choi&fontSize=90&fontAlign=50&fontColor=6FC3FF)</h1>
 
 
 <h1 align="center">

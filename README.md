@@ -14,7 +14,7 @@
 - ⚡ What I like to do: **Running, watching action and thriller movies, and enjoying anime**
 
 
-
+<div align="center">
 
 # ⚙️ Skills
 ### Platforms & Languages
@@ -24,23 +24,37 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=aws&logoColor=white)
 
+</div>  
 
+<div align="center">
+  
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 
+</div>  
+
+<div align="center">
+
 # ⚔ Project
  [![Personalized message service](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jiyoonchol&repo=Sendy)](https://github.com/jiyoonchol/Sendy) [![Personalized message service](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jiyoonchol&repo=StackOverFlow-Clone)](https://github.com/jiyoonchol/StackOverFlow-Clone)
- 
+
+</div>  
 
 
 ---
+<div align="center">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyoonchol&count_bg=%23DF580F&title_bg=%232B3439&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</div>
+
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jiyoonchol&show_icons=true&theme=dark)
 
+</div>
 
 
 <!--

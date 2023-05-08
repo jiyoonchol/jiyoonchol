@@ -14,6 +14,8 @@
 ![JAVA](https://img.shields.io/badge/JAVA-FF160B.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=aws&logoColor=white)
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)

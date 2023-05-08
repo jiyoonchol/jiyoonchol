@@ -28,7 +28,7 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 
 # ⚔ Project
- [![Personalized message service](https://github-readme-stats.vercel.app/api/pin/?username=jiyoonchol&repo=Sendy)](https://github.com/jiyoonchol/Sendy) [![Personalized message service](https://github-readme-stats.vercel.app/api/pin/?username=jiyoonchol&repo=StackOverFlow-Clone-)](https://github.com/jiyoonchol/StackOverFlow-Clone-)
+ [![Personalized message service](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jiyoonchol&repo=Sendy)](https://github.com/jiyoonchol/Sendy) [![Personalized message service](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jiyoonchol&repo=StackOverFlow-Clone-)](https://github.com/jiyoonchol/StackOverFlow-Clone-)
  
 
 
@@ -36,7 +36,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyoonchol&count_bg=%23DF580F&title_bg=%232B3439&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoonchol&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jiyoonchol&show_icons=true&theme=dark)
 
 
 
@@ -47,3 +47,5 @@ Here are some ideas to get you started:
 
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoonchol)](https://github.com/anuraghazra/github-readme-stats) ![Spring](https://img.shields.io/badge/Spring-#6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=#6DB33F)
+
+![Anurag's GitHub stats](https://github-readme-stats-sigma.vercel.app/api?username=jiyoonchol&show_icons=true&theme=dark)

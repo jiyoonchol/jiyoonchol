@@ -1,9 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jiyoon%20Choi&fontSize=90&fontAlign=50)</h1>
+
+
 <h1 align="center">
-  Hello 🖐, I'm Jiyoon Choi
+  <em>"Developer taking a step forward"</em>
 </h1>
 
 
-<h1 align="center"> My goal is to grow as a backend developer </h1>
+
 
 - 🌱 I’m currently learning **how to deeply study the object-oriented principles of Java, and my goal is to perfectly understand the three core components of Spring**
 - 👯 I’m looking to collaborate on **Back-end Projects**

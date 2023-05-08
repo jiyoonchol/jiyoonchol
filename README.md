@@ -1,6 +1,10 @@
-# <center>Hello 🖐, I'm Jiyoon Choi</center>
+<h1 align="center">
+  Hello 🖐, I'm Jiyoon Choi
+</h1>
 
-## My goal is to grow as a backend developer
+
+<h1 align="center"> My goal is to grow as a backend developer </h1>
+
 - 🌱 I’m currently learning **how to deeply study the object-oriented principles of Java, and my goal is to perfectly understand the three core components of Spring**
 - 👯 I’m looking to collaborate on **Back-end Projects**
 - 📫 How to reach me: **jiyoon276479@gmail.com**

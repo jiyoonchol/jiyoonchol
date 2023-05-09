@@ -17,7 +17,7 @@
 <div align="center">
 
 
-# Platforms & Languages
+## Platforms & Languages
 
 ![JAVA](https://img.shields.io/badge/JAVA-FF160B.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -28,7 +28,7 @@
 
 <div align="center">
   
-# Tools
+## Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-# ⚔ Project
+##  Project
  [![Personalized message service](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jiyoonchol&repo=Sendy)](https://github.com/jiyoonchol/Sendy) [![Personalized message service](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jiyoonchol&repo=StackOverFlow-Clone)](https://github.com/jiyoonchol/StackOverFlow-Clone)
 
 </div>  

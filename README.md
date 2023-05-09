@@ -51,8 +51,8 @@
 </div>
 
 <div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jiyoonchol&show_icons=true&theme=dark)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoonchol&show_icons=true&theme=radical&title_color=6FC3FF&text_color=BFBFBF&icon_color=BFBFBF)
 
 </div>
 
@@ -66,3 +66,5 @@ Here are some ideas to get you started:
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoonchol)](https://github.com/anuraghazra/github-readme-stats) ![Spring](https://img.shields.io/badge/Spring-#6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=#6DB33F)
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma.vercel.app/api?username=jiyoonchol&show_icons=true&theme=dark)
+
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jiyoonchol&show_icons=true&theme=dark)

@@ -50,11 +50,7 @@
 
 </div>
 
-<div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoonchol&show_icons=true&theme=radical&title_color=6FC3FF&text_color=BFBFBF&icon_color=BFBFBF)
 
-</div>
 
 
 <!--
@@ -68,3 +64,9 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats-sigma.vercel.app/api?username=jiyoonchol&show_icons=true&theme=dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jiyoonchol&show_icons=true&theme=dark)
+
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoonchol&show_icons=true&theme=radical&title_color=6FC3FF&text_color=BFBFBF&icon_color=BFBFBF)
+
+</div>
